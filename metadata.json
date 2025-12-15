@@ -1,0 +1,8 @@
+{
+  "description": "Lumina: Engagement & Distraction Tools for mental wellness, featuring mini-games, journaling, and art therapy.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "name": "Lumina"
+}
